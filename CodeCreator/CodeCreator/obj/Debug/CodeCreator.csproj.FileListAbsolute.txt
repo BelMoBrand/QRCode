@@ -1,0 +1,7 @@
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\bin\CodeCreator.dll.config
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\bin\CodeCreator.dll
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\bin\CodeCreator.pdb
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\bin\MessagingToolkit.QRCode.dll
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\obj\Debug\CodeCreator.csprojResolveAssemblyReference.cache
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\obj\Debug\CodeCreator.dll
+E:\Code\GitHub\QRCode\CodeCreator\CodeCreator\obj\Debug\CodeCreator.pdb
